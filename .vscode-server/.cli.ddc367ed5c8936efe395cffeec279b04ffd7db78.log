@@ -1,0 +1,19 @@
+Listening on 127.0.0.1:40801
+[2025-03-27 18:23:52] info Disposed of connection to running server.
+[2025-03-27 18:23:52] info Checking /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/log.txt and /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/pid.txt for a running server...
+[2025-03-27 18:23:52] info Downloading Visual Studio Code server -> /tmp/.tmpQc5heF/vscode-server-linux-x64.tar.gz
+[2025-03-27 18:24:04] info Starting server...
+[2025-03-27 18:24:04] info Server started
+[2025-03-27 18:25:25] info Disposed of connection to running server.
+[2025-03-27 18:25:25] info Disposed of connection to running server.
+[2025-03-27 18:25:25] info Checking /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/log.txt and /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/pid.txt for a running server...
+[2025-03-27 18:25:25] info Found running server (pid=1197839)
+[2025-03-27 18:26:22] info Disposed of connection to running server.
+[2025-03-27 18:26:22] info Disposed of connection to running server.
+[2025-03-27 18:26:22] info Checking /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/log.txt and /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/pid.txt for a running server...
+[2025-03-27 18:26:22] info Found running server (pid=1197839)
+[2025-03-27 18:27:27] info Disposed of connection to running server.
+[2025-03-27 18:27:27] info Disposed of connection to running server.
+[2025-03-27 18:27:27] info Checking /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/log.txt and /home/ed568/.vscode-server/cli/servers/Stable-ddc367ed5c8936efe395cffeec279b04ffd7db78/pid.txt for a running server...
+[2025-03-27 18:27:27] info Found running server (pid=1197839)
+[2025-03-27 18:27:55] info Disposed of connection to running server.
